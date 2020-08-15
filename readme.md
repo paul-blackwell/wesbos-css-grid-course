@@ -2,6 +2,8 @@
 
 # CSS Grid Video Course
 
+Link to live site: [https://keen-booth-950110.netlify.app](https://keen-booth-950110.netlify.app
+
 Hey! These are the starter files and finished solutions. Grab the full course over at [CSSGrid.io](https://CSSGrid.io).
 
 ## Course FAQ
